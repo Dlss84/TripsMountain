@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TripsMountain</string>
+
+
+
+    <string name="title">Senderos del Perú</string>
+    <string name="text_info">Del monte Ausangate a los nevados \n de la Cordillera Huayhuash,
+        alternativas al \n Camino Inca, que culmina en Machu Picchu.</string>
+    <string name="puntos_tres">puntos_tres</string>
+    <string name="mountain_image">mountain_image</string>
+
+
+    <string name="grip_lines">puntos_tres</string>
+    <string name="discover">Discover</string>
+    <string name="users">users</string>
+
+    <string name="places">Places</string>
+    <string name="inspiration">Inspiration</string>
+    <string name="emotion">Emotions</string>
+
+    <string name="coropuna">coropuna</string>
+    <string name="text_coporuna">Altura: 6.425m.\nSignificado: reflejo en la meseta.</string>
+
+
+    <string name="ampato">ampato</string>
+
+
+    <string name="Explore_more">Explore more</string>
+
+
+</resources>
