@@ -22,10 +22,21 @@
     <string name="text_coporuna">Altura: 6.425m.\nSignificado: reflejo en la meseta.</string>
 
 
+    <string name="ampato_">ampato</string>
+    <string name="text_ampato">Ubicado a 60Km al NO de Arequipa.\nAmpato es famosa por la Momia Juanita.</string>
+
+
     <string name="ampato">ampato</string>
 
 
     <string name="Explore_more">Explore more</string>
+    <string name="See_all">See all</string>
+
+    <string name="text_kayak">Kayaking</string>
+    <string name="text_snorkel">Snorkelling</string>
+    <string name="text_ballons">Balloning</string>
+    <string name="text_volcano">Volcano</string>
+
 
 
 </resources>
